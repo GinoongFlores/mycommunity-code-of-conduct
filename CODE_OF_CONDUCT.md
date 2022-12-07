@@ -1,3 +1,6 @@
+# The Contributor Covenant governs this Community
+As a member or one of the community leaders in this community, you abide to follow all the rules or guidelines under our Code of Conduct adapted from Contributor Covenant 2.0 to ensure that everyone is safe, comfortable, and feels welcomed, participants in this repository abide by the terms of the Contributor Covenant, version 2.0 (https://www.contributor-covenant.org/version/2/0/code_of_conduct/). The full text of the code of conduct as pertains to this repository is included below. You can find steps to [report a violation](#how-to-report) at the bottom of this document.  
+
 # Contributor Covenant Code of Conduct 2.0
 
 ## Our Pledge
