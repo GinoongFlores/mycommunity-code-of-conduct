@@ -116,14 +116,6 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
 
-## How To Report 
-
-If you find yourself struggling to be in the community due to any inappropriate or toxic behaviors and sees someone who violates the community's code of conduct, Please don't hesitate to report the incident and get the support listed below
-
-* Contact one of the community leaders at florespaul161@gmail.com 
-
-Note: If the incident requires the institution's rights to intervene or community leaders need help from advisers to enforce the appropriate decision. Then we will do so to have a fair judgment. 
-
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
@@ -142,3 +134,12 @@ For answers to common questions about this code of conduct, see the FAQ at
 [Mozilla CoC]: https://github.com/mozilla/diversity
 [FAQ]: https://www.contributor-covenant.org/faq
 [translations]: https://www.contributor-covenant.org/translations
+
+
+## How To Report 
+
+If you find yourself struggling to be in the community due to any inappropriate or toxic behaviors and sees someone who violates the community's code of conduct, Please don't hesitate to report the incident and get the support listed below
+
+* Contact one of the community leaders at florespaul161@gmail.com 
+
+Note: If the incident requires the institution's rights to intervene or community leaders need help from advisers to enforce the appropriate decision. Then we will do so to have a fair judgment. 
