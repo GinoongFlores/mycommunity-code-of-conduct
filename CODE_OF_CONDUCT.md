@@ -67,6 +67,14 @@ All complaints will be reviewed and investigated promptly and fairly.
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
+## How To Report 
+
+If you find yourself struggling to be in the community due to any inappropriate or toxic behaviors and sees someone who violates the community's code of conduct, Please don't hesitate to report the incident and get the support listed below
+
+* Contact one of the community leaders at florespaul161@gmail.com 
+
+Note: If the incident requires the institution's rights to intervene or community leaders need help from advisers to enforce the appropriate decision. Then we will do so to have a fair judgment. 
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
