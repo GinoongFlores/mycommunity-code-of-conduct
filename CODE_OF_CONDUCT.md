@@ -1,5 +1,6 @@
 # The Contributor Covenant governs this Community
-As a member or one of the community leaders in this community, you abide to follow all the rules or guidelines under our Code of Conduct adapted from Contributor Covenant 2.1 to ensure that everyone is safe, comfortable, and feels welcomed, participants in this repository abide by the terms of the Contributor Covenant, version 2.1 (https://www.contributor-covenant.org/version/2/1/code_of_conduct/). The full text of the code of conduct as pertains to this repository is included below. You can find steps to [report a violation](#how-to-report) at the bottom of this document.  
+
+As a member or one of this community's community leaders, you follow all the rules or guidelines under our Code of Conduct, adapted from Contributor Covenant 2.1, to ensure that everyone is safe, comfortable, and feels welcomed. Participants in this repository abide by the terms of the Contributor Covenant version 2.1 (https://www.contributor-covenant.org/version/2/1/code_of_conduct/). The full text of the code of conduct as pertains to this repository is included below. You can find steps to [report a violation](#how-to-report) at the bottom of this document.  
 
 # Contributor Covenant Code of Conduct 2.1
 
@@ -138,8 +139,8 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## How To Report 
 
-If you find yourself struggling to be in the community due to any inappropriate or toxic behaviors and sees someone who violates the community's code of conduct, Please don't hesitate to report the incident and get the support listed below
+If you find yourself struggling to be in the community due to inappropriate or toxic behaviours and sees someone violating the community's code of conduct, Please don't hesitate to report the incident and get the support listed below: 
 
 * Contact one of the community leaders at florespaul161@gmail.com 
 
-Note: If the incident requires the institution's rights to intervene or community leaders need help from advisers to enforce the appropriate decision. Then we will do so to have a fair judgment. 
+**Note**: If the incident requires the institution's rights to intervene or community leaders need help from advisers to enforce the appropriate decision. Then we will do so to have a fair judgment. 
